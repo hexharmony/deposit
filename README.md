@@ -13,9 +13,7 @@ TPSkfPTatJqmtpo2ec4GDsELqyMKpPsctx
 ```
 ---
 
-## 🔶 BNB (BNB)
-
-**Network:** BNB Smart Chain (BEP-20)
+**Network:** BSC (BEP-20)
 
 ```text
 0xd6055266376c9a4a6ddfed25040e2ce3d3daaed9
@@ -58,6 +56,15 @@ TPSkfPTatJqmtpo2ec4GDsELqyMKpPsctx
 3AcodT7NwgPGtbR8hRGo1zq6pTTj9k2rNwJmWe3r1C3H
 ```
 
+---
+
+## 🔶 BNB (BNB)
+
+**Network:** BNB Smart Chain (BEP-20)
+
+```text
+0xd6055266376c9a4a6ddfed25040e2ce3d3daaed9
+```
 ---
 
 ## ⚠️ Important Notice
