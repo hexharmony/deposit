@@ -4,6 +4,30 @@ Welcome! Below you can find my official cryptocurrency wallet addresses.
 
 Feel free to send cryptocurrency using the corresponding network listed for each address.
 
+## ₮ Tether (USDT)
+
+**Network:** TRON (TRC-20)
+
+```text
+TPSkfPTatJqmtpo2ec4GDsELqyMKpPsctx
+```
+---
+
+## 🔶 BNB (BNB)
+
+**Network:** BNB Smart Chain (BEP-20)
+
+```text
+0xd6055266376c9a4a6ddfed25040e2ce3d3daaed9
+```
+---
+
+**Network:** Ethereum (ERC-20)
+
+```text
+0xd6055266376c9a4a6ddfed25040e2ce3d3daaed9
+```
+
 ---
 
 ## ₿ Bitcoin (BTC)
@@ -11,7 +35,7 @@ Feel free to send cryptocurrency using the corresponding network listed for each
 **Network:** Bitcoin Mainnet
 
 ```text
-YOUR_BITCOIN_WALLET_ADDRESS
+3P57KeEq2XtLpqjJ2ePB9gPJWPqZr54oY4
 ```
 
 ---
@@ -21,7 +45,7 @@ YOUR_BITCOIN_WALLET_ADDRESS
 **Network:** Ethereum Mainnet (ERC-20)
 
 ```text
-YOUR_ETHEREUM_WALLET_ADDRESS
+0xd6055266376c9a4a6ddfed25040e2ce3d3daaed9
 ```
 
 ---
@@ -31,33 +55,7 @@ YOUR_ETHEREUM_WALLET_ADDRESS
 **Network:** Solana Mainnet
 
 ```text
-YOUR_SOLANA_WALLET_ADDRESS
-```
-
----
-
-## ₮ Tether (USDT)
-
-**Network:** TRON (TRC-20)
-
-```text
-YOUR_USDT_TRC20_ADDRESS
-```
-
-**Network:** Ethereum (ERC-20)
-
-```text
-YOUR_USDT_ERC20_ADDRESS
-```
-
----
-
-## 🔶 BNB (BNB)
-
-**Network:** BNB Smart Chain (BEP-20)
-
-```text
-YOUR_BNB_WALLET_ADDRESS
+3AcodT7NwgPGtbR8hRGo1zq6pTTj9k2rNwJmWe3r1C3H
 ```
 
 ---
