@@ -28,6 +28,18 @@ TPSkfPTatJqmtpo2ec4GDsELqyMKpPsctx
 
 ---
 
+---
+
+## 💵 USD Coin (USDC)
+
+**Network:** Base (Base)
+
+```text
+0xd6055266376c9a4a6ddfed25040e2ce3d3daaed9
+```
+
+---
+
 ## ₿ Bitcoin (BTC)
 
 **Network:** Bitcoin Mainnet
